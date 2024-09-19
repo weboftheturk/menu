@@ -1,0 +1,29 @@
+html{
+    background-color: #a79ed3;
+}
+.Menü{
+    font-size: 15px;
+    margin: 20px 100px;
+    padding: 20px 20px;
+    border: 5px solid white;
+}
+#mpar{
+        font-size: medium;
+      font-family:  "sofadi-one-regular";
+        font-family: "Sofadi One", system-ui;
+        font-style: normal;
+        text-transform: uppercase;
+        text-align: center;
+}
+#menu{
+        text-transform: uppercase;
+        font-size: 40px;
+        font-family: "Protest Guerrilla", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        text-align: center;
+        }
+h2{
+    text-align: center;
+    text-transform: uppercase;
+}
